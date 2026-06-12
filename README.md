@@ -1,2 +1,4 @@
-# daveops.foo
-static website for daveops.foo
+# Readme
+static website for me.daveopz.com
+
+just for fun to send links
